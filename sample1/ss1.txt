@@ -1,0 +1,42 @@
+class Base {
+	
+	// Method Overriding with static Methods
+		
+		public static void call()
+		{
+			System.out.println("Base Class");
+		}
+		public void print()
+		{
+		System.out.println("I'am in Base Class");
+		}
+	}
+
+	 class Derived extends Base
+	{
+		public static void call()
+		{
+			System.out.println("Derived Class");
+		}
+		public void print()
+		{
+		System.out.println("I'am in Derived Class");
+		}
+	}
+	public class Test
+	 {
+	     public static void main(String[] args)
+		{
+			//Derived d=new Derived();
+	    	 Base b=new Derived();
+	    	 b.call();
+			//Derived.call();
+	    	 b.print();
+		}
+
+	}
+
+
+
+
+
