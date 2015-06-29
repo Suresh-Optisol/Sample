@@ -3,3 +3,7 @@
           Responsibilities (in brief):
 Used Telerik controls and implemented the needed controls like RAD Controls and UI controls for the Project 
 Wrote Stored procedures and reports
+  This project is to create a community server platform to launch community services like Blogs, Forums, Wikis, and Resource Libraries etc. The platform has a robust administration module to control the community services and users. 	
+          Responsibilities (in brief):
+Used Telerik controls and implemented the needed controls like RAD Controls and UI controls for the Project 
+Wrote Stored procedures and reports
